@@ -1,0 +1,150 @@
+body {
+    background-color: #a8e6cf; /* Color pastel verde */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px; /* Establecer un ancho fijo para el cuadro */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho */
+}
+
+.logo {
+    width: 100px; /* Ajusta el tamaño del logo */
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.textbox {
+    margin-bottom: 15px; /* Ajustar el espacio entre los campos de texto */
+}
+
+.textbox input {
+    width: 100%; /* Asegura que el campo ocupe todo el ancho del cuadro */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho del input */
+}
+
+.btn {
+    background-color: #6ab04c; /* Color del botón */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho del botón */
+}
+
+.btn:hover {
+    background-color: #5f9e44; /* Color al pasar el mouse */
+}
+
+.register {
+    margin-top: 10px; /* Espacio entre el botón y el texto de registro */
+}
+
+.register p {
+    margin-top: 5px; /* Ajustar el espacio entre el texto y el enlace */
+    font-size: 14px; /* Hacer el texto más pequeño */
+    color: black; /* Color del texto de registro */
+}
+
+.register a {
+    color: #6ab04c; /* Color del enlace */
+    text-decoration: none;
+}
+
+body {
+    background-color: #a8e6cf; /* Color pastel verde */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-box {
+    background-color: white; /* Color blanco para el cuadro */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px; /* Ancho fijo para el cuadro */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho */
+}
+
+h2 {
+    margin-bottom: 10px; /* Espacio entre el título y el cuadro */
+}
+
+.textbox {
+    margin-bottom: 15px; /* Espacio entre los campos de texto */
+}
+
+.textbox input {
+    width: 100%; /* Ancho completo del cuadro */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho */
+}
+
+.btn {
+    background-color: #6ab04c; /* Color del botón */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho del botón */
+}
+
+.btn:hover {
+    background-color: #5f9e44; /* Color al pasar el mouse */
+}
+
+.login {
+    margin-top: 10px; /* Espacio entre el botón y el texto de inicio de sesión */
+}
+
+.login p {
+    margin-top: 5px; /* Espacio entre el texto y el enlace */
+    font-size: 14px; /* Tamaño de texto más pequeño */
+    color: black; /* Color del texto de inicio de sesión */
+}
+
+.login a {
+    color: #6ab04c; /* Color del enlace */
+    text-decoration: none;
+}
+
+
